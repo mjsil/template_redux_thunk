@@ -38,7 +38,7 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 git clone https://github.com/mjsil/template_redux_thunk.git
 ```
 
-### Mobile
+### Web
 
 ```bash
 # Entre na pasta fera_fut
