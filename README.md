@@ -23,7 +23,9 @@ Estrutura de pastas e organização do código, versão Redux Thunk.
 Esta aplicação foi desenolvida com as seguintes tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
+- [Redux](https://redux.js.org/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
+- [Redux Logger](https://github.com/LogRocket/redux-logger)
 - [Axios](https://github.com/axios/axios)
 
 ## 💻 Instalação, execução e desenvolvimento
