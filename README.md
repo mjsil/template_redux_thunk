@@ -43,7 +43,7 @@ git clone https://github.com/mjsil/template_redux_thunk.git
 ### Web
 
 ```bash
-# Entre na pasta fera_fut
+# Entre na pasta do projeto
 $ cd template_redux_thunk
 # Instale as dependências
 $ yarn install ou npm install
